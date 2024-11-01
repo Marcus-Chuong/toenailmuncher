@@ -11,7 +11,7 @@
 `Languages.Real:` **English, Korean**
 
 `Hobbies.Software:` **Open-source contribution, Physics and Math Simulations**  
-`Hobbies.Hardware:` **Badminton, Rock-Climbing**
+`Hobbies.Hardware:` **Badminton, Playing the Piano and Guitar**
 
 `Contact:`  
 ----------------
