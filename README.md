@@ -14,13 +14,13 @@
 `Hobbies.Hardware:` **Badminton, Rock-Climbing**
 
 `Contact:`  
-________
+----------------
 `Email:` **marcus.chuong@gmail.com**  
 `LinkedIn:` **www.linkedin.com/in/marcus-chuong**  
 `Discord:` **_pissbaby.**
 
 `GitHub Stats:`  
-________
+----------------
 `Repos:` **4**  | `Contributed:` **3**  
 `Commits:` **59** | `Stars:` **4**  
 `Followers:` **1** | `Lines of Code:` **151,000+**
